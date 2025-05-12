@@ -1,1 +1,2 @@
-# Repositório prática aula 01 do curso Bootcamp Intensivo Python - Jornada de Dados
+# Bootcamp Intensivo Python - Jornada de Dados
+# Repositório prática aula 01 com desafio e exercícios
